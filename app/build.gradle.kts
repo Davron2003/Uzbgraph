@@ -49,5 +49,5 @@ dependencies {
     implementation("androidx.compose.material3:material3")
 
     // Telegram TDLib (vanyislands wrapper)
-    implementation("org.drinkless.td:tdlib:1.8.23")
+    implementation("io.github.seiko-project:tdlib-android:1.8.20")
 }
