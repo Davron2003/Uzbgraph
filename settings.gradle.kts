@@ -10,7 +10,6 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        jcenter() // ← Aynan shu qatorni qo'shing
         maven { url = java.net.URI("https://jitpack.io") }
     }
 }
